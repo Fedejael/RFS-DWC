@@ -37,3 +37,8 @@ body {
 .navegacion-principal {
     
 }
+
+.navegacion-principal a{
+    background-color: var(--primario);   
+    display: block;
+}
