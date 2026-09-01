@@ -170,3 +170,17 @@ h3 {
     }
 }
 
+/* Nosotros */
+
+.nosotros {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.nosotros__contenido {
+
+}
+
+.nosotros__imagen {
+
+}
